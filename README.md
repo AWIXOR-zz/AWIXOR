@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name EL HOUCINE AOUASSAR, I'm a self taught Designer & front-end web developer, Currently working as a freelancer.
+My name EL HOUCINE AOUASSAR, also known as Awixor, I'm a self taught Designer & front-end web developer, Currently working as a freelancer.
 
 When I am not coding you can find me playing video games or having fun with friends.
 
