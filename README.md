@@ -27,3 +27,7 @@ Feel free to reach out to me for speaking inquiries, or if you have questions or
 - 🐦 Twitter: [@HAoussare](https://twitter.com/HAoussare)
 - 👥 LinkedIn [/Awixor](https://www.linkedin.com/in/awixor/)
 - 👨‍💻 Designs: [Behance Profile](https://www.behance.net/awixor)
+
+
+### My stats & badges 
+![Github stats](https://github-readme-stats.vercel.app/api?username=awixor&show_icons=true)
